@@ -1,5 +1,12 @@
-azure-functions==1.23.0
--e git+https://github.com/mariakalykaki/CICD.git@09cf5202ee47b7929fad160e90728fb167620c17#egg=cicd
+# azure-functions==1.23.0
+# -e git+https://github.com/mariakalykaki/CICD.git@09cf5202ee47b7929fad160e90728fb167620c17#egg=cicd
+
+
+
+-e .
+azure-functions
+pytest
+
 colorama==0.4.6
 iniconfig==2.1.0
 MarkupSafe==3.0.3
