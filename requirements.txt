@@ -1,4 +1,10 @@
 azure-functions==1.23.0
--e git+https://github.com/mariakalykaki/trial.git@552e5196e221be30c4d3efcd89ec9c14a1882e85#egg=cicd&subdirectory=gtgh program\cicd
+-e git+https://github.com/mariakalykaki/CICD.git@09cf5202ee47b7929fad160e90728fb167620c17#egg=cicd
+colorama==0.4.6
+iniconfig==2.1.0
 MarkupSafe==3.0.3
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==8.4.2
 Werkzeug==3.1.3
