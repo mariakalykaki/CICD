@@ -1,0 +1,4 @@
+azure-functions==1.23.0
+-e git+https://github.com/mariakalykaki/trial.git@552e5196e221be30c4d3efcd89ec9c14a1882e85#egg=cicd&subdirectory=gtgh program\cicd
+MarkupSafe==3.0.3
+Werkzeug==3.1.3
